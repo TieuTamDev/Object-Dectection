@@ -1,5 +1,5 @@
 #### HƯỚNG DẪN CÀI ĐẶT VÀ CÁC CHÚ Ý LIÊN QUAN ####
-- Chào mọi người, mình là Chu Đặng Bình An - 1 trong những thành viên của project này. Sau đây có một số chú ý khi cài đặt.
+- Chào mọi người, mình là TieuTamDev - 1 trong những thành viên của project này. Sau đây có một số chú ý khi cài đặt.
 
 1. Các file mô hình đều do nhiều thành viên làm và gộp lại điều thành 1 file code nên khi chạy chú ý chạy từng mô hình một.
 
